@@ -49,4 +49,5 @@ fields:
   label: featured
   description: You can filter by featured content on your homepage
 pages:
+- content/post/wer-wer.md
 - content/post/the-title.md
